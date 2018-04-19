@@ -1,0 +1,9 @@
+﻿  AStar.cpp
+c:\users\zachm\source\repos\dijanda\dijanda\astar.cpp(15): warning C4005: 'ROW': macro redefinition
+  c:\users\zachm\source\repos\dijanda\dijanda\astar.h(17): note: see previous definition of 'ROW'
+  Generating Code...
+  Compiling...
+  Source.cpp
+  Generating Code...
+  DijandA.vcxproj -> C:\Users\zachm\source\repos\DijandA\Debug\DijandA.exe
+  DijandA.vcxproj -> C:\Users\zachm\source\repos\DijandA\Debug\DijandA.pdb (Partial PDB)
